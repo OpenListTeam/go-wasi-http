@@ -7,7 +7,7 @@
 package terminalstdout
 
 import (
-	terminaloutput "github.com/ydnar/wasi-http-go/internal/wasi/cli/terminal-output"
+	terminaloutput "github.com/OpenListTeam/go-wasi-http/internal/wasi/cli/terminal-output"
 	"go.bytecodealliance.org/cm"
 )
 

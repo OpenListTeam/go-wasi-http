@@ -1,6 +1,6 @@
 # wasi-http-go
 
-[![pkg.go.dev](https://img.shields.io/badge/docs-pkg.go.dev-blue.svg)](https://pkg.go.dev/github.com/ydnar/wasi-http-go) [![build status](https://img.shields.io/github/actions/workflow/status/ydnar/wasi-http-go/test.yaml?branch=main)](https://github.com/ydnar/wasi-http-go/actions)
+[![pkg.go.dev](https://img.shields.io/badge/docs-pkg.go.dev-blue.svg)](https://pkg.go.dev/github.com/OpenListTeam/go-wasi-http) [![build status](https://img.shields.io/github/actions/workflow/status/ydnar/wasi-http-go/test.yaml?branch=main)](https://github.com/OpenListTeam/go-wasi-http/actions)
 
 ## [wasi-http](https://github.com/WebAssembly/wasi-http) for [Go](https://go.dev)
 
@@ -26,7 +26,7 @@ package main
 
 import (
 	"net/http"
-	_ "github.com/ydnar/wasi-http-go/wasihttp" // enable wasi-http
+	_ "github.com/OpenListTeam/go-wasi-http/wasihttp" // enable wasi-http
 )
 
 func init() {

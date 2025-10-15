@@ -4,7 +4,7 @@
 package stdout
 
 import (
-	"github.com/ydnar/wasi-http-go/internal/wasi/io/streams"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/io/streams"
 	"go.bytecodealliance.org/cm"
 )
 

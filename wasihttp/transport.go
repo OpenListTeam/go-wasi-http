@@ -6,8 +6,8 @@ import (
 	"io"
 	"net/http"
 
-	outgoinghandler "github.com/ydnar/wasi-http-go/internal/wasi/http/outgoing-handler"
-	"github.com/ydnar/wasi-http-go/internal/wasi/http/types"
+	outgoinghandler "github.com/OpenListTeam/go-wasi-http/internal/wasi/http/outgoing-handler"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/http/types"
 	"go.bytecodealliance.org/cm"
 )
 

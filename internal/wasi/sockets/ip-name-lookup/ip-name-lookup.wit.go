@@ -4,8 +4,8 @@
 package ipnamelookup
 
 import (
-	"github.com/ydnar/wasi-http-go/internal/wasi/io/poll"
-	"github.com/ydnar/wasi-http-go/internal/wasi/sockets/network"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/io/poll"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/sockets/network"
 	"go.bytecodealliance.org/cm"
 )
 

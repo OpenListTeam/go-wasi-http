@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	incominghandler "github.com/ydnar/wasi-http-go/internal/wasi/http/incoming-handler"
-	"github.com/ydnar/wasi-http-go/internal/wasi/http/types"
+	incominghandler "github.com/OpenListTeam/go-wasi-http/internal/wasi/http/incoming-handler"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/http/types"
 	"go.bytecodealliance.org/cm"
 )
 

@@ -7,7 +7,7 @@
 package incominghandler
 
 import (
-	"github.com/ydnar/wasi-http-go/internal/wasi/http/types"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/http/types"
 )
 
 // IncomingRequest represents the exported type alias "wasi:http/incoming-handler@0.2.0#incoming-request".

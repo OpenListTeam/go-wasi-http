@@ -1,4 +1,4 @@
-module github.com/ydnar/wasi-http-go
+module github.com/OpenListTeam/go-wasi-http
 
 go 1.23.0
 

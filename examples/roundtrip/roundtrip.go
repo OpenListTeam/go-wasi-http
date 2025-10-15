@@ -11,7 +11,7 @@ import (
 	"io"
 	"net/http"
 
-	wasihttp "github.com/ydnar/wasi-http-go/wasihttp"
+	wasihttp "github.com/OpenListTeam/go-wasi-http/wasihttp"
 )
 
 func printResponse(r *http.Response) error {

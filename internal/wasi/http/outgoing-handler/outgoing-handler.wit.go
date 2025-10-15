@@ -7,7 +7,7 @@
 package outgoinghandler
 
 import (
-	"github.com/ydnar/wasi-http-go/internal/wasi/http/types"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/http/types"
 	"go.bytecodealliance.org/cm"
 )
 

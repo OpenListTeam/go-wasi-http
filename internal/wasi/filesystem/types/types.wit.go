@@ -29,8 +29,8 @@
 package types
 
 import (
-	wallclock "github.com/ydnar/wasi-http-go/internal/wasi/clocks/wall-clock"
-	"github.com/ydnar/wasi-http-go/internal/wasi/io/streams"
+	wallclock "github.com/OpenListTeam/go-wasi-http/internal/wasi/clocks/wall-clock"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/io/streams"
 	"go.bytecodealliance.org/cm"
 )
 

@@ -4,8 +4,8 @@
 package udpcreatesocket
 
 import (
-	"github.com/ydnar/wasi-http-go/internal/wasi/sockets/network"
-	"github.com/ydnar/wasi-http-go/internal/wasi/sockets/udp"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/sockets/network"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/sockets/udp"
 	"go.bytecodealliance.org/cm"
 )
 

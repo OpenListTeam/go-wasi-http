@@ -8,10 +8,10 @@
 package types
 
 import (
-	monotonicclock "github.com/ydnar/wasi-http-go/internal/wasi/clocks/monotonic-clock"
-	ioerror "github.com/ydnar/wasi-http-go/internal/wasi/io/error"
-	"github.com/ydnar/wasi-http-go/internal/wasi/io/poll"
-	"github.com/ydnar/wasi-http-go/internal/wasi/io/streams"
+	monotonicclock "github.com/OpenListTeam/go-wasi-http/internal/wasi/clocks/monotonic-clock"
+	ioerror "github.com/OpenListTeam/go-wasi-http/internal/wasi/io/error"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/io/poll"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/io/streams"
 	"go.bytecodealliance.org/cm"
 )
 

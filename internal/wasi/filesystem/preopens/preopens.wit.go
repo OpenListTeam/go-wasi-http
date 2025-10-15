@@ -4,7 +4,7 @@
 package preopens
 
 import (
-	"github.com/ydnar/wasi-http-go/internal/wasi/filesystem/types"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/filesystem/types"
 	"go.bytecodealliance.org/cm"
 )
 

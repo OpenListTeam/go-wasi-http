@@ -3,7 +3,7 @@
 package types
 
 import (
-	wallclock "github.com/ydnar/wasi-http-go/internal/wasi/clocks/wall-clock"
+	wallclock "github.com/OpenListTeam/go-wasi-http/internal/wasi/clocks/wall-clock"
 	"go.bytecodealliance.org/cm"
 	"unsafe"
 )

@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/ydnar/wasi-http-go/internal/wasi/http/types"
-	"github.com/ydnar/wasi-http-go/internal/wasi/io/streams"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/http/types"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/io/streams"
 	"go.bytecodealliance.org/cm"
 )
 

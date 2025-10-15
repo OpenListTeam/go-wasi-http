@@ -10,8 +10,8 @@
 package streams
 
 import (
-	ioerror "github.com/ydnar/wasi-http-go/internal/wasi/io/error"
-	"github.com/ydnar/wasi-http-go/internal/wasi/io/poll"
+	ioerror "github.com/OpenListTeam/go-wasi-http/internal/wasi/io/error"
+	"github.com/OpenListTeam/go-wasi-http/internal/wasi/io/poll"
 	"go.bytecodealliance.org/cm"
 )
 

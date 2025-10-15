@@ -14,7 +14,7 @@ import (
 	"net/http"
 	"time"
 
-	_ "github.com/ydnar/wasi-http-go/wasihttp"
+	_ "github.com/OpenListTeam/go-wasi-http/wasihttp"
 )
 
 func init() {
